@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+/* Provide sufficient contrast against white background */
+a {
+  color: #E01A76;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: black;
+  background-color: #9B9797;
+  border-color: #9B9797;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+html, body {
+  font-family: 'Quicksand', sans-serif!important;
+
+}
